@@ -20,4 +20,5 @@ func main(){
     }
     tss.print()
     tss.printa()
+    tss.print()
 }
